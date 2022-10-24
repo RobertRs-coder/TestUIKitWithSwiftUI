@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		233645FF290688A6004B09BB /* SwiftUIViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233645FE290688A6004B09BB /* SwiftUIViewTest.swift */; };
+		2336460129068B2D004B09BB /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2336460029068B2D004B09BB /* TableViewController.swift */; };
 		236EF0A32903FC440051D390 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236EF0A22903FC440051D390 /* ViewController.swift */; };
 		23CC894F2903F59900BC1E58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CC894E2903F59900BC1E58 /* AppDelegate.swift */; };
 		23CC89512903F59900BC1E58 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CC89502903F59900BC1E58 /* SceneDelegate.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		233645FE290688A6004B09BB /* SwiftUIViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewTest.swift; sourceTree = "<group>"; };
+		2336460029068B2D004B09BB /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		236EF0A22903FC440051D390 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		23CC894B2903F59900BC1E58 /* TestUIKitWithSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestUIKitWithSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23CC894E2903F59900BC1E58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 		23CC897E2903F90800BC1E58 /* TableViewController */ = {
 			isa = PBXGroup;
 			children = (
+				2336460029068B2D004B09BB /* TableViewController.swift */,
 			);
 			path = TableViewController;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 				236EF0A32903FC440051D390 /* ViewController.swift in Sources */,
 				23CC894F2903F59900BC1E58 /* AppDelegate.swift in Sources */,
 				233645FF290688A6004B09BB /* SwiftUIViewTest.swift in Sources */,
+				2336460129068B2D004B09BB /* TableViewController.swift in Sources */,
 				23CC89512903F59900BC1E58 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

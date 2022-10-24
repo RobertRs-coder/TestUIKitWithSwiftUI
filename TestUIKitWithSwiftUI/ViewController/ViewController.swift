@@ -18,7 +18,9 @@ class ViewController: UIViewController {
 
 
     @IBAction func onTapViewController(_ sender: UIButton) {
+        //Create SwiftUiViewController
         let swiftUIVC = UIHostingController(rootView: SwiftUIViewTest())
+        //Push it with navigationController
         self.navigationController?.pushViewController(swiftUIVC, animated: true)
     }
     
