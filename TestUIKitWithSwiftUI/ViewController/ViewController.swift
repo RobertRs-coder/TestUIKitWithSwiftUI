@@ -26,7 +26,8 @@ class ViewController: UIViewController {
     
     
     @IBAction func onTapTableViewController(_ sender: UIButton) {
-        
+        let vc = TableViewController()
+        self.navigationController?.pushViewController(vc, animated: true)
     }
     
 }

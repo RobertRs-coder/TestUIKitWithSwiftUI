@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		233645FF290688A6004B09BB /* SwiftUIViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233645FE290688A6004B09BB /* SwiftUIViewTest.swift */; };
 		2336460129068B2D004B09BB /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2336460029068B2D004B09BB /* TableViewController.swift */; };
+		23364603290694CC004B09BB /* CellRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23364602290694CC004B09BB /* CellRowView.swift */; };
 		236EF0A32903FC440051D390 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236EF0A22903FC440051D390 /* ViewController.swift */; };
 		23CC894F2903F59900BC1E58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CC894E2903F59900BC1E58 /* AppDelegate.swift */; };
 		23CC89512903F59900BC1E58 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CC89502903F59900BC1E58 /* SceneDelegate.swift */; };
@@ -40,6 +41,7 @@
 /* Begin PBXFileReference section */
 		233645FE290688A6004B09BB /* SwiftUIViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewTest.swift; sourceTree = "<group>"; };
 		2336460029068B2D004B09BB /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		23364602290694CC004B09BB /* CellRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellRowView.swift; sourceTree = "<group>"; };
 		236EF0A22903FC440051D390 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		23CC894B2903F59900BC1E58 /* TestUIKitWithSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestUIKitWithSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23CC894E2903F59900BC1E58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 			children = (
 				236EF0A22903FC440051D390 /* ViewController.swift */,
 				233645FE290688A6004B09BB /* SwiftUIViewTest.swift */,
+				23364602290694CC004B09BB /* CellRowView.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				233645FF290688A6004B09BB /* SwiftUIViewTest.swift in Sources */,
 				2336460129068B2D004B09BB /* TableViewController.swift in Sources */,
 				23CC89512903F59900BC1E58 /* SceneDelegate.swift in Sources */,
+				23364603290694CC004B09BB /* CellRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

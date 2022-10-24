@@ -40,9 +40,10 @@ class TableViewController: UITableViewController {
         //Configuramos la celda
         cell.contentConfiguration = UIHostingConfiguration{
             //Esto es SwiftUI
-            VStack{
-                Text("\(item)")
-            }
+//            VStack{
+//                Text("\(item)")
+//            }
+            CellRowView(numero: item)
         }
 
         return cell
