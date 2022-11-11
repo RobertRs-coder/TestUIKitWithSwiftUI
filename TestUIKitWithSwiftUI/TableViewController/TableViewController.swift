@@ -41,7 +41,7 @@ class TableViewController: UITableViewController {
 //            VStack{
 //                Text("\(item)")
 //            }
-            CellRowView(numero: item)
+            CellRowView(number: item)
         }
         return cell
     }
