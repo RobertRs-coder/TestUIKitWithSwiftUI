@@ -15,15 +15,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         self.title = "Home"
     }
-
-
+    
     @IBAction func onTapViewController(_ sender: UIButton) {
         //Create SwiftUiViewController
         let swiftUIVC = UIHostingController(rootView: SwiftUIViewTest())
         //Push it with navigationController
         self.navigationController?.pushViewController(swiftUIVC, animated: true)
     }
-    
     
     @IBAction func onTapTableViewController(_ sender: UIButton) {
         let vc = TableViewController()

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct CellRowView: View {
-    var numero: Int //Modelo que recibe
+    var numero: Int //Model which is received
     var body: some View {
         VStack{
             Image(systemName: "number.circle.fill")

@@ -43,6 +43,7 @@
 		2336460029068B2D004B09BB /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		23364602290694CC004B09BB /* CellRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellRowView.swift; sourceTree = "<group>"; };
 		236EF0A22903FC440051D390 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		23C72ED9291EFA530003228F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		23CC894B2903F59900BC1E58 /* TestUIKitWithSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestUIKitWithSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23CC894E2903F59900BC1E58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23CC89502903F59900BC1E58 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +86,7 @@
 		23CC89422903F59900BC1E58 = {
 			isa = PBXGroup;
 			children = (
+				23C72ED9291EFA530003228F /* README.md */,
 				23CC894D2903F59900BC1E58 /* TestUIKitWithSwiftUI */,
 				23CC89642903F59A00BC1E58 /* TestUIKitWithSwiftUITests */,
 				23CC896E2903F59A00BC1E58 /* TestUIKitWithSwiftUIUITests */,

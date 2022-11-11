@@ -25,8 +25,7 @@ struct SwiftUIViewTest: View {
         .font(.title)
         .foregroundColor(.white)
         .background(.orange)
-        .navigationTitle("Esto es SwiftUI")
-        
+        .navigationTitle("This is SwiftUI")
     }
 }
 
